@@ -8,20 +8,10 @@ Prerequisites and Technical resources to get started with Python Finance data.
 3. SQL 기초
 4. 리눅스 사용 기초
 
-#### 1) 파이썬 프로그래밍 언어
-파이썬 언어의 기초 문법과 사용법을 개괄적으로 정리하였으며, 7개 모듈로 구성되어 있습니다.
-
-* [PART 1 - 변수와 값, 기본 데이터 타입, 출력](https://nbviewer.ipython.org/9d7ddfa86e60d9a212dc8c72d54dbad8)
-* [PART 2 - 연산자, 문자열](https://nbviewer.ipython.org/d5a97d6465d987788e6a02ee4edebbc6)
-* [PART 3 - 흐름 제어](https://nbviewer.ipython.org/96d1491a699fb8288e781b5db5e2691b)
-* [PART 4 - 자료구조 - 리스트, 튜플, 딕셔너리](https://nbviewer.ipython.org/aa2bc96aadf37a9440891d0bc89abb1a)
-* [PART 5 - 함수와 모듈](https://nbviewer.ipython.org/5572cd2d5b271d3c7122034737747a4a)
-* [PART 6 - 날짜와 시간, 요약 통계, 파일 입출력](https://nbviewer.ipython.org/6b9ea9c4a1a81b213479bf61fb594ee5)
-* [PART 7 - 데이터 수집과 분석 미니프로젝트](https://nbviewer.ipython.org/a47ff6ea5968e36fb33d73d84e3d26a6)
-
-**T아카데미 Python 프로그래밍 기초 정리법** <br>
-잘 정리된 강좌로 "T아카데미 Python 프로그래밍"하며, 어느 내용을 중점적으로 보아야 할지를 정리한 내용입니다.
+#### 1) 파이썬 언어 기본
+"T아카데미 Python 프로그래밍"의 주요 내용과 어느 내용을 중점적으로 보아야 할지를 정리
 * [T아카데미 Python 프로그래밍 기초 정리법](https://nbviewer.ipython.org/23f8b6a4d6c0a9d289884aa5952f1a81)
+
 
 #### 2) 웹 기술과 HTML 기초
 * 기본적인 웹 기술과 용어들 (HTTP, HTML, GET/POST command 등)
