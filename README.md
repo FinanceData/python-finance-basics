@@ -1,7 +1,6 @@
-# python finance basics
 Prerequisites and Technical resources to get started with Python Finance data.
 
-#### 1. 사전 준비
+## 사전 준비
 파이썬 파이낸스 데이터 입문을 위해 기본적으로 이해를 가지고 있으면 좋을 내용들
 
 1. 파이썬 언어 기본
@@ -9,7 +8,7 @@ Prerequisites and Technical resources to get started with Python Finance data.
 3. SQL 기초
 4. 리눅스 사용 기초
 
-#### 1. 파이썬 프로그래밍 언어
+#### 1) 파이썬 프로그래밍 언어
 파이썬 언어의 기초 문법과 사용법을 개괄적으로 정리하였으며, 7개 모듈로 구성되어 있습니다.
 
 * [PART 1 - 변수와 값, 기본 데이터 타입, 출력](https://nbviewer.ipython.org/9d7ddfa86e60d9a212dc8c72d54dbad8)
@@ -24,17 +23,17 @@ Prerequisites and Technical resources to get started with Python Finance data.
 잘 정리된 강좌로 "T아카데미 Python 프로그래밍"하며, 어느 내용을 중점적으로 보아야 할지를 정리한 내용입니다.
 * [T아카데미 Python 프로그래밍 기초 정리법](https://nbviewer.ipython.org/23f8b6a4d6c0a9d289884aa5952f1a81)
 
-#### 2. 웹 기술과 HTML 기초
+#### 2) 웹 기술과 HTML 기초
 * 기본적인 웹 기술과 용어들 (HTTP, HTML, GET/POST command 등)
 * 크롬 개발자 도구는 Elements, Network 두개의 메뉴만 활용해도 충분
 
-#### 3. SQL
+#### 3) SQL
 데이터 사이언스를 하신다면 (아주 깊게는 아니더라도) 반드시 익혀 두셔야 할 스킬입니다. 
 
 1. 기본적인 테이블 생성(create table)
 1. 기본적인 쿼리: 조회(select)와 조건절(where) 사용
 
-#### 4. 리눅스
+#### 4) 리눅스
 * 기본 명령 (ls, cat, head, tail, cd, mkdir, rmdir, wget, curl 정도)
 * 에디터(vi 혹은 nano)는 최소한 파일 읽어서 수정하고, 저장 할 정도
 
@@ -66,7 +65,7 @@ Prerequisites and Technical resources to get started with Python Finance data.
 *  [칸아카데미 - SQL이란](https://ko.khanacademy.org/computing/computer-programming/sql)
 
 리눅스
-* [생활코딩  - 리눅스](https://opentutorials.org/course/2598)
+* [생활코딩 - 리눅스](https://opentutorials.org/course/2598)
 
 
 #### 2018 FinanceData.KR
