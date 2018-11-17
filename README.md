@@ -22,7 +22,7 @@ Prerequisites and Technical resources to get started with Python Finance data.
 
 T아카데미 Python 프로그래밍 기초 정리법
 잘 정리된 강좌로 "T아카데미 Python 프로그래밍"하며, 어느 내용을 중점적으로 보아야 할지를 정리하였습니다.
-[T아카데미 Python 프로그래밍 기초 정리법.ipynb]
+[T아카데미 Python 프로그래밍 기초 정리법](T아카데미 Python 프로그래밍 기초 정리법.ipynb)
 
 #### 2. 웹 기술과 HTML 기초
 * 기본적인 웹 기술과 용어들 (HTTP, HTML, GET/POST command 등)
